@@ -1,0 +1,6 @@
+{
+  "name": "ResellHub Electronics Manager",
+  "description": "Complete online selling management software for electronics resellers to manage products, wholesalers, prices, orders, profits, and stock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
